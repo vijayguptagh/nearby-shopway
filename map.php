@@ -46,6 +46,9 @@ if (isset($_GET['shop'])) {
             height: 77vh;
             width: 100%;
         }
+        h1{
+            font-size:20px;
+        }
     </style>
 
     <script>
